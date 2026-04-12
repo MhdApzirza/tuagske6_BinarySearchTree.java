@@ -34,5 +34,5 @@ Dalam struktur ini, data diatur secara hierarkis di mana setiap node kiri memili
 ## 🎥 Video Demo
 Demonstrasi teknis mengenai cara kerja BST, perbedaan hasil ketiga jenis traversal, serta efisiensi pencarian pada 100 data barang:
 
-**[Nonton Video Demo](link)**
+**[Nonton Video Demo](https://youtu.be/OjpmUo3lO7Q?si=0qql5j0K5hNO6406)**
 *Klik gambar di atas untuk memutar video demo di YouTube @Muhammad Apzirza Rafi.*
