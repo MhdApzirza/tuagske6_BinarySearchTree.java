@@ -1,0 +1,22 @@
+Tools AI yang digunakan> Google Gemini AI
+
+---------PROMPTS 1-------------
+
+sekarang kita ngoding struktur data menggunakan prinsip BINARY SEARCH TREE (BST) yang merupakan tugas ke 6 dan terakhir pada matkul Struktur Data ini: 
+penjelasan detail sebagai berikut: 
+
+Buat program (Java & Python) menggunakan struktur data BST dengan fitur program terdiri dari:
+tambah data, cari data, hapus data, dan traversal (inorder, preorder, postorder). Untuk testing program, inputkan seluruh data (id dan nama)
+yang ada dalam file excel berikut (terlampir).
+
+---------PROMPTS 2 dan selanjutnya itu tinggal menyesuaikan dan improvisasi agar kode lebih rapi dan enak dilihat-------------
+"di bagian tugas ke 6 ini ada yang spesial dimana telah disediakan file excel yang berisi 
+100 data yaitu nama dan nim kemudian menggunakan BST kita memanajemen 100 data itu dengan 
+berbagai fitur yang diminta agar dapat bekerja."
+
+---------PROMPTS 3 dan selanjutnya itu tinggal menyesuaikan dan improvisasi agar kode lebih rapi dan enak dilihat-------------
+"Upload file excel 100 data nama dan nim"
+
+>>selanjutnya ikutin tatacara yang diberikan oleh Google Gemini AI dan selesai. 
+
+
